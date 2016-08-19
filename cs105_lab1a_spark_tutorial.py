@@ -656,7 +656,7 @@ dataDF.groupBy().avg('age').show(truncate=False)
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC We can also use `groupBy()` to do aother useful aggregations:
+# MAGIC We can also use `groupBy()` to do another useful aggregations:
 
 # COMMAND ----------
 
